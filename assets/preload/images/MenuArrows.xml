@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MenuArrows.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ArrowPressLeft0000" x="5" y="5" width="115" height="182"/>
+	<SubTexture name="ArrowPressLeft0001" x="5" y="5" width="115" height="182"/>
+	<SubTexture name="ArrowPressLeft0002" x="127" y="5" width="115" height="182"/>
+	<SubTexture name="ArrowPressLeft0003" x="127" y="5" width="115" height="182"/>
+	<SubTexture name="ArrowPressRight0000" x="249" y="5" width="114" height="183"/>
+	<SubTexture name="ArrowPressRight0001" x="249" y="5" width="114" height="183"/>
+	<SubTexture name="ArrowPressRight0002" x="370" y="5" width="114" height="183"/>
+	<SubTexture name="ArrowPressRight0003" x="370" y="5" width="114" height="183"/>
+	<SubTexture name="LeftArrow0000" x="5" y="195" width="118" height="189"/>
+	<SubTexture name="RightArrow0000" x="130" y="195" width="118" height="189"/>
+</TextureAtlas>
